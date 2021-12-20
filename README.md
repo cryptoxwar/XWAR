@@ -14,7 +14,7 @@ XWAR Release Date in 2021-12-19.
 The Crypto XWAR has considered time periods for distribution of XWAR tokens in the markets.
 Advance Sales: to be announced soon.
 
-#Future Plans XWAR
+# Future Plans XWAR
 Metavars:
 Crypto XWAR is always looking to identify and anticipate great opportunities to develop its platforms. Another of our plans is to create a meta-world with the goal of sponsoring investments, creating entertainment around the world.
 The meta-world will be a space for online business, monetization and entertainment.
