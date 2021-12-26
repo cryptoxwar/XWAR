@@ -6,8 +6,11 @@ The token will be available to participants instead of money and will be used in
 
 # XWAR Token
 XWAR is a token that was launched on the Tron Blockchain. XWAR has inherited all features of TRX, its most remarkable ones being high transaction speed and low transaction costs.
+
 Total Supply: 300,000,000 XWAR.
+
 Blockchain Explorer: tronscan.io
+
 Contract Address: TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW
 
 XWAR Release Date in 2021-12-19.
