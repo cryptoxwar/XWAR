@@ -24,3 +24,6 @@ The meta-world will be a space for online business, monetization and entertainme
 
 # Team
 With a strong team, we will be with the supporters of the metaverse cryptoxwar project.
+
+# Roadmap
+![Roadmap](https://user-images.githubusercontent.com/96395250/147855044-e4c726cf-d438-40e9-8a5c-dec1c26fe04e.png)
