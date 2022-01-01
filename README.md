@@ -11,7 +11,7 @@ Total Supply: 300,000,000 XWAR.
 
 Blockchain Explorer: tronscan.io
 
-Contract Address: TBp6ZMzkxci5o4sJjFa6Fo9Wy36gcubQLW
+Contract Address: TEaQiJQUWyEq9Cm2up67Ws3EXufJnGuzPr
 
 XWAR Release Date in 2021-12-19.
 The Crypto XWAR has considered time periods for distribution of XWAR tokens in the markets.
