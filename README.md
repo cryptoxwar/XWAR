@@ -13,7 +13,7 @@ Blockchain Explorer: tronscan.io
 
 Contract Address: TEaQiJQUWyEq9Cm2up67Ws3EXufJnGuzPr
 
-XWAR Release Date in 2021-12-19.
+XWAR Release Date in 2022-01-01.
 The Crypto XWAR has considered time periods for distribution of XWAR tokens in the markets.
 Advance Sales: to be announced soon.
 
